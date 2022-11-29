@@ -3,3 +3,4 @@
 # it is mu first
 # use varibles and dynamic varibles
 # author Dayo Ajayi
+This is a front end application
