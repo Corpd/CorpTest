@@ -1,6 +1,6 @@
 #This is a test
 # please do not hardcode
-# it is mu first
+# Thit is my first code
 # use varibles and dynamic varibles
-# author Dayo Ajayi
+# Author by me Dayo Ajayi
 This is a front end application
